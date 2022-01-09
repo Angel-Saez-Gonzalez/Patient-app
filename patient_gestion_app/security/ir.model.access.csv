@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_patient_gestion_app_patient_model,patient_gestion_app.patient_model,model_patient_gestion_app_patient_model,base.group_user,1,1,1,1
+access_patient_gestion_app_visits_model,patient_gestion_app.visits_model,model_patient_gestion_app_visits_model,base.group_user,1,1,1,1
